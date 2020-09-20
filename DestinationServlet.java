@@ -45,7 +45,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="4DCA:3A41:939396:C640F9:5F6755CC" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f0d091009a66cbff65c84feec248b28a0911daad" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uYWdhZHVyZ2EyMzE5L1NlcnZsZXRzIiwicmVxdWVzdF9pZCI6IjREQ0E6M0E0MTo5MzkzOTY6QzY0MEY5OjVGNjc1NUNDIiwidmlzaXRvcl9pZCI6IjM4NTMzMjkzOTU1MzQ0Njk4MTUiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGgtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="18921e5f65ba5c27d56576a0d2db46bcc560134acab659593ff23b77c86ab57c" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
+  <meta name="request-id" content="F102:1948:946454:C7990D:5F675C47" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f0d091009a66cbff65c84feec248b28a0911daad" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uYWdhZHVyZ2EyMzE5L1NlcnZsZXRzIiwicmVxdWVzdF9pZCI6IkYxMDI6MTk0ODo5NDY0NTQ6Qzc5OTBEOjVGNjc1QzQ3IiwidmlzaXRvcl9pZCI6IjM4NTMzMjkzOTU1MzQ0Njk4MTUiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGgtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="e46d940d8f28e96ec57bf70be83bec19041aa9a0558852f430ee7ab3ae1b8e04" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:296604305" data-pjax-transient>
 
@@ -297,7 +297,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="NAJgou3sHFLXS9hnnL9CMEfspCWUqct9VX0W1F4UTBHnC0r56Dg6kAKdorxTUlx6GcryExTX3kk6Fy4QKRAtuQ==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="BWFcoGOVtIYTZsqCdL436oBHxYKM+cTOKihOuGIMN+7WaHb7ZkGSRMawsFm7Uymg3mGTtAyH0fpFQnZ8FQhWRg==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
